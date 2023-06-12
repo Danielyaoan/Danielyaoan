@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/SQL-03080c?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-03080c?style=for-the-badge&logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=matlab&logoColor=white)
 
 
 ### Frameworks, Platforms:
